@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6da602da-0833-4eda-834e-a263be48a5fd" name="Changes" comment="nested lists and removing ites">
-      <change afterPath="$PROJECT_DIR$/Sequences/joining_things.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sequences/magical_adder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sequences/splitting_things.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sequences/tuples_intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sequences/unpacking.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sequences/enumerate_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/enumerate_example.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sequences/moreprint.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/moreprint.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sequences/nospam.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/nospam.py" afterDir="false" />
-    </list>
+    <list default="true" id="6da602da-0833-4eda-834e-a263be48a5fd" name="Changes" comment="learning tuples" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -197,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1689075502717</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="learning tuples">
+      <created>1692035875168</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692035875168</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,6 +212,7 @@
     <MESSAGE value="Remove unused folder" />
     <MESSAGE value="iterating backwards added" />
     <MESSAGE value="nested lists and removing ites" />
-    <option name="LAST_COMMIT_MESSAGE" value="nested lists and removing ites" />
+    <MESSAGE value="learning tuples" />
+    <option name="LAST_COMMIT_MESSAGE" value="learning tuples" />
   </component>
 </project>

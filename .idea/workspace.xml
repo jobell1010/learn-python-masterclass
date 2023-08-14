@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6da602da-0833-4eda-834e-a263be48a5fd" name="Changes" comment="iterating backwards added">
-      <change afterPath="$PROJECT_DIR$/Sequences/moreprint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sequences/nospam.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sequences/spam.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sequences/number_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sequences/number_lists.py" afterDir="false" />
-    </list>
+    <list default="true" id="6da602da-0833-4eda-834e-a263be48a5fd" name="Changes" comment="nested lists and removing ites" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688474750542</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="nested lists and removing ites">
+      <created>1689075502717</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689075502717</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +204,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Remove unused folder" />
     <MESSAGE value="iterating backwards added" />
-    <option name="LAST_COMMIT_MESSAGE" value="iterating backwards added" />
+    <MESSAGE value="nested lists and removing ites" />
+    <option name="LAST_COMMIT_MESSAGE" value="nested lists and removing ites" />
   </component>
 </project>

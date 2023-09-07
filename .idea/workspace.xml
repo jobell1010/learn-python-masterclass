@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6da602da-0833-4eda-834e-a263be48a5fd" name="Changes" comment="learning tuples">
-      <change afterPath="$PROJECT_DIR$/Functions_Intro/banner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions_Intro/sum_eo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions_Intro/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions_Intro/functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Functions_Intro/guessinggame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions_Intro/guessinggame.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,22 +29,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/jo-be/GitHub/learn-python-masterclass/Functions_Intro&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/jo-be/GitHub/learn-python-masterclass/Functions_Intro",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jo-be\GitHub\learn-python-masterclass\Functions_Intro" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.banner">
+  <component name="RunManager" selected="Python.functions">
     <configuration name="banner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-python-masterclass" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,10 +153,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.banner" />
         <item itemvalue="Python.functions" />
-        <item itemvalue="Python.sum_eo" />
         <item itemvalue="Python.guessinggame" />
+        <item itemvalue="Python.banner" />
+        <item itemvalue="Python.sum_eo" />
         <item itemvalue="Python.stings2" />
       </list>
     </recent_temporary>

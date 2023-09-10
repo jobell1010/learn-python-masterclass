@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6da602da-0833-4eda-834e-a263be48a5fd" name="Changes" comment="learning tuples">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions_Intro/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions_Intro/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Functions_Intro/guessinggame.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions_Intro/guessinggame.py" afterDir="false" />
-    </list>
+    <list default="true" id="6da602da-0833-4eda-834e-a263be48a5fd" name="Changes" comment="learning tuples" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

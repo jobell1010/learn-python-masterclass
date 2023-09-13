@@ -1,4 +1,13 @@
-def banner_text(text=" ", screen_width=80):
+def banner_text(text: str = " ", screen_width: int = 80) -> None:
+    """
+    Print a string centered with ** either side
+
+    :param text: String to print
+        * gives a row of ****
+        default is a blank line with ** border
+    :param screen_width: Width of banner
+    :raises ValueError: Text length longer than banner length
+    """
     if len(text) > screen_width - 4:
         raise ValueError("String {0} is larger than specified width {1}"
                          .format(text, screen_width))

@@ -12,7 +12,7 @@ for i in range(1, len(available_parts) + 1):
     valid_choices.append(str(i))
 
 current_choice = "-"
-computer_parts = [] # create an empty list
+computer_parts = []  # create an empty list
 
 while current_choice != '0':
     if current_choice in valid_choices:

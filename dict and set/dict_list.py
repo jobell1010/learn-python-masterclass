@@ -6,11 +6,20 @@ available_parts = {"1": "computer",
                    "6": "dvd drive",
                    }
 
+parts_list = []
 current_choice = None
 while current_choice != "0":
     if current_choice in available_parts:
         chosen_part = available_parts[current_choice]
-        print(f"Adding {chosen_part}")
+        if chosen_part in parts_list:
+            print(f"Removing {chosen_part}")
+            parts_list.remove(chosen_part)
+        else:
+            print(f"Adding {chosen_part}")
+            parts_list.append(chosen_part)
+
+        print("Your parts list currently contains:")
+        print(parts_list)
     else:
         print("Please add options from the list")
         for key, part in available_parts.items():

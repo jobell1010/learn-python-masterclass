@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6da602da-0833-4eda-834e-a263be48a5fd" name="Changes" comment="learning tuples">
-      <change afterPath="$PROJECT_DIR$/dict and set/contents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict and set/meal_planner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict and set/recipe_options.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/character_counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/dict_defaults.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/dict_methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/my_deepcopy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/shallow_copy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/shallow_copy_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dict and set/buy_computer_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/dict and set/buy_computer_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dict and set/dict_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/dict and set/dict_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dict and set/meal_planner.py" beforeDir="false" afterPath="$PROJECT_DIR$/dict and set/meal_planner.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +61,8 @@
       <recent name="C:\Users\jo-be\GitHub\learn-python-masterclass" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.meal_planner">
-    <configuration name="buy_computer_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.my_deepcopy">
+    <configuration name="character_counter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-python-masterclass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/buy_computer_dict.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/character_counter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dict_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dict_methods" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-python-masterclass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/dict_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/dict_methods.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="meal_planner" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="my_deepcopy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-python-masterclass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/meal_planner.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/my_deepcopy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="recipe_options" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="shallow_copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-python-masterclass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/recipe_options.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/shallow_copy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="zen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="shallow_copy_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-python-masterclass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,7 +158,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/zen.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/shallow_copy_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.meal_planner" />
-        <item itemvalue="Python.recipe_options" />
-        <item itemvalue="Python.buy_computer_dict" />
-        <item itemvalue="Python.zen" />
-        <item itemvalue="Python.dict_list" />
+        <item itemvalue="Python.my_deepcopy" />
+        <item itemvalue="Python.shallow_copy" />
+        <item itemvalue="Python.shallow_copy_2" />
+        <item itemvalue="Python.dict_methods" />
+        <item itemvalue="Python.character_counter" />
       </list>
     </recent_temporary>
   </component>

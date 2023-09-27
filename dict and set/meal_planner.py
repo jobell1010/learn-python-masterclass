@@ -3,7 +3,11 @@ from contents import pantry, recipes
 
 def add_shopping_item(data: dict, item: str, amount: int) -> None:
     """Add a key, value pair to the 'data' dictionary"""
-    data[item] = amount
+    # if item in data:
+    #     data[item] += amount
+    # else:
+    #     data[item] = amount
+    data[item] = data.setdefault(item, 0) + amount
 
 
 # display_dict = {str(index = 1): meal for index, meal in enumerate(recipies)}
@@ -39,4 +43,5 @@ while True:
                 add_shopping_item(shopping_list, food_item, quantity_to_buy)
 
 print("Here is your shopping list:")
-print(shopping_list)
+for things in shopping_list.items():
+    print(things)

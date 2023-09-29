@@ -11,9 +11,8 @@ def my_deepcopy(d: dict) -> dict:
     :return: A copy of `d`, with the values being copies of the original
     """
     new_dict = {}
-    for key in d:
-        values = d[key]
-        new_value = values.copy()
+    for key, value in d.items():
+        new_value = value.copy()
         new_dict[key] = new_value
 
     return new_dict

@@ -2,11 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6da602da-0833-4eda-834e-a263be48a5fd" name="Changes" comment="learning tuples">
-      <change afterPath="$PROJECT_DIR$/dict and set/atrocious_hash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict and set/deepcopy_is_recursive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dict and set/secure_hash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/creepy_animal_sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/modifying_sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/packing_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/prepositions_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/prescription_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/prescription_processing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/prescription_trial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/primes_and_squares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/remove_items_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/set_difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/set_intersection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/set_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/set_union.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/summarychallenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dict and set/trial_patients.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dict and set/my_deepcopy.py" beforeDir="false" afterPath="$PROJECT_DIR$/dict and set/my_deepcopy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,17 +49,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/jo-be/GitHub/learn-python-masterclass/dict and set",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jo-be/GitHub/learn-python-masterclass/dict and set&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jo-be\GitHub\learn-python-masterclass\dict and set" />
@@ -58,8 +69,8 @@
       <recent name="C:\Users\jo-be\GitHub\learn-python-masterclass" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.secure_hash">
-    <configuration name="atrocious_hash" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.packing_list">
+    <configuration name="character_counter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-python-masterclass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,7 +82,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/atrocious_hash.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/character_counter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="deepcopy_is_recursive" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="packing_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-python-masterclass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\jo-be\GitHub\learn-python-masterclass\dict and set\deepcopy_is_recursive.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/packing_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -101,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="my_deepcopy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prepositions_exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-python-masterclass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,7 +124,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/my_deepcopy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/prepositions_exercise.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="secure_hash" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="set_difference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-python-masterclass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,7 +145,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/secure_hash.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/set_difference.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="shallow_copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="splitting_things" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-python-masterclass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dict and set" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Sequences" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict and set/shallow_copy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Sequences/splitting_things.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.secure_hash" />
-        <item itemvalue="Python.atrocious_hash" />
-        <item itemvalue="Python.deepcopy_is_recursive" />
-        <item itemvalue="Python.my_deepcopy" />
-        <item itemvalue="Python.shallow_copy" />
+        <item itemvalue="Python.packing_list" />
+        <item itemvalue="Python.set_difference" />
+        <item itemvalue="Python.prepositions_exercise" />
+        <item itemvalue="Python.splitting_things" />
+        <item itemvalue="Python.character_counter" />
       </list>
     </recent_temporary>
   </component>

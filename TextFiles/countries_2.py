@@ -2,12 +2,19 @@ import csv
 
 input_filename = 'country_info.txt'
 
+dialect = csv.excel
+dialect.delimiter = '|'
+
 countries = {}
 
 with open(input_filename, encoding='utf-8', newline='') as countries_file:
-    reader = csv.DictReader(countries_file, delimiter='|')
+    # get the column headings from the first in eof the file
+    headings = countries_file.readline().strip('\n').split(dialect.delimiter)
+    for index, heading in enumerate(headings):
+        headings[index] = heading.casefold()
+    reader = csv.DictReader(countries_file, dialect=dialect, fieldnames=headings)
     for row in reader:
-        countries[row['Country'].casefold()] = row
+        countries[row['country'].casefold()] = row
 
 while True:
     choice = input("Please choose a country: ")
@@ -16,10 +23,10 @@ while True:
         chosen = countries[country_key]
     #     cap = chosen.get("capital", "None")
     #     print(f"The capital is {cap}")
-        if chosen['Capital'] == '':
+        if chosen['capital'] == '':
             print(f"{choice} does not have a capital city")
         else:
-            print(f"The capital of {choice} is {chosen['Capital']}")
+            print(f"The capital of {choice} is {chosen['capital']}")
     elif choice == 'quit':
         break
     else:

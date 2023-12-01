@@ -2,18 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6da602da-0833-4eda-834e-a263be48a5fd" name="Changes" comment="learning tuples">
-      <change afterPath="$PROJECT_DIR$/BinaryFiles/Someday.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFiles/bm_test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFiles/bytes_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFiles/colorama-0.4.6-py2.py3-none-any.whl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFiles/id3_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFiles/invert_bitmap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFiles/read_id3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFiles/sha_checksum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BinaryFiles/vintage-halloween-bat.bmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modimport/browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modimport/challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modimport/dateanddatetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modimport/datecalc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modimport/example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modimport/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modimport/guichallenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modimport/morefunction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modimport/screen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modimport/timechallenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modimport/timezone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modimport/tkinterdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modimport/turtledemo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextFiles/invoices.csv" beforeDir="false" afterPath="$PROJECT_DIR$/TextFiles/invoices.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextFiles/invoicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/TextFiles/invoicing.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,18 +47,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/jo-be/GitHub/learn-python-masterclass/BinaryFiles",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.sourceCode.Other File Types"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jo-be/GitHub/learn-python-masterclass/BinaryFiles&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Other File Types&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jo-be\GitHub\learn-python-masterclass\BinaryFiles" />
@@ -69,8 +71,8 @@
       <recent name="C:\Users\jo-be\GitHub\learn-python-masterclass" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sha_checksum">
-    <configuration name="bytes_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.formating">
+    <configuration name="formating" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-python-masterclass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinaryFiles" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HelloWorld" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryFiles/bytes_example.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/formating.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="invert_bitmap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-python-masterclass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinaryFiles" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modimport" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryFiles/invert_bitmap.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modimport/functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +114,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="invoicing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="morefunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="learn-python-masterclass" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modimport" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modimport/morefunction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="read_poem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-python-masterclass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -124,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TextFiles/invoicing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TextFiles/read_poem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="read_id3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sliceback" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="learn-python-masterclass" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,32 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinaryFiles" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HelloWorld" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryFiles/read_id3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sha_checksum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="learn-python-masterclass" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinaryFiles" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinaryFiles/sha_checksum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HelloWorld/sliceback.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sha_checksum" />
-        <item itemvalue="Python.read_id3" />
-        <item itemvalue="Python.invert_bitmap" />
-        <item itemvalue="Python.bytes_example" />
-        <item itemvalue="Python.invoicing" />
+        <item itemvalue="Python.formating" />
+        <item itemvalue="Python.sliceback" />
+        <item itemvalue="Python.read_poem" />
+        <item itemvalue="Python.morefunction" />
+        <item itemvalue="Python.functions" />
       </list>
     </recent_temporary>
   </component>
